@@ -1,6 +1,7 @@
 # 💫 About Me:
 😄 Hi, I'm Nicolas Vaz Pagliari!
 
+I'm an IT student that is constantly improving myself as a developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ nicolas-vaz-pagliari) 
