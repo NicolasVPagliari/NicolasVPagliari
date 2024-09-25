@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=ff9700&descAlign=23&descAlignY=79">
+
 # 💫 About Me:
 😄 Hi, I'm Nicolas Vaz Pagliari!
 
